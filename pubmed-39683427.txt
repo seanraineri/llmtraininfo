@@ -1,0 +1,119 @@
+PMID- 39683427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241217
+LR  - 20250104
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 16
+IP  - 23
+DP  - 2024 Nov 25
+TI  - Biomarker-Guided Dietary Supplementation: A Narrative Review of Precision in 
+      Personalized Nutrition.
+LID - 10.3390/nu16234033 [doi]
+LID - 4033
+AB  - Background: Dietary supplements (DS) are widely used to address nutritional 
+      deficiencies and promote health, yet their indiscriminate use often leads to 
+      reduced efficacy, adverse effects, and safety concerns. Biomarker-driven 
+      approaches have emerged as a promising strategy to optimize DS prescriptions, 
+      ensuring precision and reducing risks associated with generic recommendations. 
+      Methods: This narrative review synthesizes findings from key studies on 
+      biomarker-guided dietary supplementation and the integration of artificial 
+      intelligence (AI) in biomarker analysis. Key biomarker categories-genomic, 
+      proteomic, metabolomic, lipidomic, microbiome, and immunological-were reviewed, 
+      alongside AI applications for interpreting these biomarkers and tailoring 
+      supplement prescriptions. Results: Biomarkers enable the identification of 
+      deficiencies, metabolic imbalances, and disease predispositions, supporting 
+      targeted and safe DS use. For example, genomic markers like MTHFR polymorphisms 
+      inform folate supplementation needs, while metabolomic markers such as glucose 
+      and insulin levels guide interventions in metabolic disorders. AI-driven tools 
+      streamline biomarker interpretation, optimize supplement selection, and enhance 
+      therapeutic outcomes by accounting for complex biomarker interactions and 
+      individual needs. Limitations: Despite these advancements, AI tools face 
+      significant challenges, including reliance on incomplete training datasets and a 
+      limited number of clinically validated algorithms. Additionally, most current 
+      research focuses on clinical populations, limiting generalizability to healthier 
+      populations. Long-term studies remain scarce, raising questions about the 
+      sustained efficacy and safety of biomarker-guided supplementation. Regulatory 
+      ambiguity further complicates the classification of supplements, especially when 
+      combinations exhibit pharmaceutical-like effects. Conclusions: Biomarker-guided 
+      DS prescription, augmented by AI, represents a cornerstone of personalized 
+      nutrition. While offering significant potential for precision and efficacy, 
+      advancing these strategies requires addressing challenges such as incomplete AI 
+      data, regulatory uncertainties, and the lack of long-term studies. By overcoming 
+      these obstacles, clinicians can better meet individual health needs, prevent 
+      diseases, and integrate precision nutrition into routine care.
+FAU - Pokushalov, Evgeny
+AU  - Pokushalov E
+AUID- ORCID: 0000-0002-9494-4234
+AD  - Center for New Medical Technologies, Novosibirsk 630090, Russia.
+AD  - Scientific Research Laboratory, Triangel Scientific, San Francisco, CA 94101, 
+      USA.
+FAU - Ponomarenko, Andrey
+AU  - Ponomarenko A
+AUID- ORCID: 0000-0002-5468-9961
+AD  - Center for New Medical Technologies, Novosibirsk 630090, Russia.
+FAU - Shrainer, Evgenya
+AU  - Shrainer E
+AUID- ORCID: 0000-0002-9675-3044
+AD  - Center for New Medical Technologies, Novosibirsk 630090, Russia.
+FAU - Kudlay, Dmitry
+AU  - Kudlay D
+AUID- ORCID: 0000-0003-1878-4467
+AD  - Institute of Pharmacy, I.M. Sechenov First Moscow State Medical University 
+      (Sechenov University), Moscow 119435, Russia.
+FAU - Miller, Richard
+AU  - Miller R
+AD  - Scientific Research Laboratory, Triangel Scientific, San Francisco, CA 94101, 
+      USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20241125
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Humans
+MH  - *Dietary Supplements
+MH  - *Precision Medicine/methods
+MH  - *Biomarkers/blood
+MH  - Nutritional Status
+MH  - Artificial Intelligence
+MH  - Metabolomics/methods
+PMC - PMC11643751
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - biomarkers
+OT  - dietary supplements
+OT  - personalized nutrition
+OT  - precision medicine
+OT  - targeted supplementation
+COIS- Evgeny Pokushalov, Andrey Ponomarenko, and Evgenya Shrainer are affiliated with 
+      the Center for New Medical Technologies. Evgeny Pokushalov and Richard Miller are 
+      affiliated with Triangel Scientific. While Triangel Scientific provided the AI 
+      software (GenAIS™) mentioned in reference [8], the company did not influence the 
+      study design, data collection, analysis, or interpretation of results. The study 
+      was conducted independently by the research team from the Center for New Medical 
+      Technologies to ensure objectivity and scientific integrity. The authors 
+      acknowledge the potential for perceived conflict of interest and have disclosed 
+      this relationship to maintain transparency. Dmitry Kudlay declares no conflicts 
+      of interest.
+EDAT- 2024/12/17 11:48
+MHDA- 2024/12/17 11:49
+PMCR- 2024/11/25
+CRDT- 2024/12/17 01:07
+PHST- 2024/11/08 00:00 [received]
+PHST- 2024/11/21 00:00 [revised]
+PHST- 2024/11/22 00:00 [accepted]
+PHST- 2024/12/17 11:49 [medline]
+PHST- 2024/12/17 11:48 [pubmed]
+PHST- 2024/12/17 01:07 [entrez]
+PHST- 2024/11/25 00:00 [pmc-release]
+AID - nu16234033 [pii]
+AID - nutrients-16-04033 [pii]
+AID - 10.3390/nu16234033 [doi]
+PST - epublish
+SO  - Nutrients. 2024 Nov 25;16(23):4033. doi: 10.3390/nu16234033.
